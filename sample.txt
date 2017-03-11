@@ -3,3 +3,6 @@ Hello
 I'm making changes here. Will this register on Git?
 
 Now after adding this file in the staging area, I'm making changes, will this be registered on git? I saved the file on editor and then I'll check if git registers changes.
+
+What's gonna happen now
+
