@@ -1,0 +1,25 @@
+total 500
+-rw-r--r-- 1 root   root    2273 Dec  9  2015 alternatives.log
+drwxr-xr-x 2 root   root    4096 Sep 12  2014 apt
+-rw-r----- 1 syslog adm    29682 Mar  9 00:15 auth.log
+-rw-r--r-- 1 root   root       0 Mar  8 23:53 boot.log
+-rw-rw---- 1 root   utmp       1 Jul 21  2014 btmp
+-rw-r----- 1 root   adm        0 Mar  8 23:53 dmesg
+-rw-r----- 1 root   adm        0 Dec  9  2015 dmesg.0
+-rw-r----- 1 root   adm       28 Feb 12  2015 dmesg.1.gz
+-rw-r----- 1 root   adm       28 Feb 12  2015 dmesg.2.gz
+-rw-r----- 1 root   adm       28 Sep 16  2014 dmesg.3.gz
+-rw-r----- 1 root   adm       28 Sep 15  2014 dmesg.4.gz
+-rw-r--r-- 1 root   root   47156 Dec  9  2015 dpkg.log
+-rw-r--r-- 1 root   root   32032 Dec  9  2015 faillog
+drwxr-xr-x 2 root   root    4096 Jul 21  2014 fsck
+-rw-r----- 1 syslog adm        1 Jul 21  2014 kern.log
+-rw-rw-r-- 1 root   utmp  292292 Mar  9 00:15 lastlog
+drwxr-s--- 2 mysql  adm     4096 Dec  9  2015 mysql
+-rw-r----- 1 mysql  adm        0 Dec  9  2015 mysql.err
+-rw-r----- 1 mysql  adm        0 Dec  9  2015 mysql.log
+drwxr-xr-x 2 redis  redis   4096 Dec  9  2015 redis
+-rw-r----- 1 syslog adm    12895 Mar  8 23:53 syslog
+-rw-r--r-- 1 root   root    8235 Mar  8 23:53 udev
+drwxr-xr-x 2 root   root    4096 Dec  9  2015 upstart
+-rw-rw-r-- 1 root   utmp   23424 Mar  9 00:15 wtmp

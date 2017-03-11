@@ -1,0 +1,7 @@
+banana.txt
+banyan.txt
+myoutput.txt
+peanuts.txt
+pipeDemo.txt
+rm
+somefile.txt
