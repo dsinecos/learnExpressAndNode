@@ -10,4 +10,8 @@ Oh Yeah!!
 
 Will this change be registered on test or master branch?
 
+<<<<<<< HEAD
 This change is being made on master branch
+=======
+Let's makes some changes on testbranch
+>>>>>>> testbranch
